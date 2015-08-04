@@ -4,7 +4,8 @@
 ### Setup & Run
 ```
 > npm install
-> npm start   (the alias for "node main.js")
+> momo: npm run momo
+> pchome24: npm run pchome24
 ```
 
 
@@ -24,4 +25,4 @@ curl --header "Content-Type: application/xml" --data-binary @productdata.xml "ht
 
 - Search
 
-http://product.by-salagado.corp-us-east-1.dev.vespa.yahooapis.com:4080/search/?query=Bob%20best
+http://product.by-salagado.corp-us-east-1.dev.vespa.yahooapis.com:4080/search/?query=iphone

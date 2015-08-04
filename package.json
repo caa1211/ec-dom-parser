@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-  	"start" : "node main.js",
-    "build": "gcc main.cpp -o main"
+  	"momo" : "node momo_parser.js",
+    "pchome24" : "node pchome24_parser.js"
   },
   "dependencies": {
     "cheerio": "*",
