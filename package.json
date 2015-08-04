@@ -1,0 +1,16 @@
+{
+  "name": "ec-dom-parser",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+  	"start" : "node main.js",
+    "build": "gcc main.cpp -o main"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "iconv-lite": "*",
+    "request": "*",
+    "data2xml": "*",
+    "lodash": "*"
+  }
+}
